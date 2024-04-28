@@ -14,3 +14,13 @@ pip install termcolor
 ```
 https://github.com/Bartwel27/PWGXtractor.git
 ```
+
+> Grant Access
+___password___
+```
+27859910
+```
+___Hosst_name___
+```
+get_bartwel_as_host
+```
