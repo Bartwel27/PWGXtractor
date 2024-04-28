@@ -12,10 +12,11 @@ pip install termcolor
 ```
 
 ```
-https://github.com/Bartwel27/PWGXtractor.git
+git clone https://github.com/Bartwel27/PWGXtractor.git
 ```
 
 > Grant Access
+
 ___password___
 ```
 27859910
