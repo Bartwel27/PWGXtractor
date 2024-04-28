@@ -1,5 +1,5 @@
 # PWGXtractor
-The Phishing Web Generator (PWGXtractor), is a simple tool used to generate phishing sites manualy without really writing code from your text editor, i wont be responsible for any illigal activities.
+The Phishing Web Generator (PWGXtractor), is a simple tool used to generate phishing sites manualy without really writing code in your text editor, i wont be responsible for any illigal activities.
 
 
 > Installation
@@ -21,7 +21,7 @@ ___password___
 ```
 27859910
 ```
-___Hosst_name___
+___Host_name___
 ```
 get_bartwel_as_host
 ```
