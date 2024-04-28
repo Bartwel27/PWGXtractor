@@ -12,5 +12,5 @@ pip install termcolor
 ```
 
 ```
-g
+https://github.com/Bartwel27/PWGXtractor.git
 ```
